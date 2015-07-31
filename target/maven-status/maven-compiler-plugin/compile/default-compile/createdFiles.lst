@@ -1,0 +1,6 @@
+crud/controllers/BookController.class
+crud/dao/BookDAO.class
+crud/services/BookService.class
+crud/dao/impl/BookDAOImpl.class
+crud/services/impl/BookServiceImpl.class
+crud/models/Book.class

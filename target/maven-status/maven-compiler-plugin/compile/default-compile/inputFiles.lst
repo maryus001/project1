@@ -1,0 +1,6 @@
+/home/marius/workspace3/crud/src/main/java/crud/dao/BookDAO.java
+/home/marius/workspace3/crud/src/main/java/crud/dao/impl/BookDAOImpl.java
+/home/marius/workspace3/crud/src/main/java/crud/services/impl/BookServiceImpl.java
+/home/marius/workspace3/crud/src/main/java/crud/controllers/BookController.java
+/home/marius/workspace3/crud/src/main/java/crud/models/Book.java
+/home/marius/workspace3/crud/src/main/java/crud/services/BookService.java
